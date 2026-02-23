@@ -6,3 +6,14 @@ This repository contains my solutions to Beecrowd problems using Python.
 - Improve problem solving skills
 - Practice algorithms
 - Track my progress
+
+## Categories
+
+- Beginner
+- Ad-Hoc
+- Strings
+- Data Structures and Libraries
+- Mathematics
+- Paradigms
+- Graphs
+- Computational Geometry
